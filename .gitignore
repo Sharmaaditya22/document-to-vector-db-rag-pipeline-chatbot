@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Vector store (optional, but recommended)
+Vector/
+CompanyDB/
+*.png
+requirements_file.txt
+
+# OS / editor junk
+.DS_Store
+.vscode/
