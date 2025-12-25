@@ -14,6 +14,7 @@ Vector/
 CompanyDB/
 *.png
 requirements_file.txt
+*.excalidraw
 
 # OS / editor junk
 .DS_Store
