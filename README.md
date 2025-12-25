@@ -165,6 +165,9 @@ Attach screenshots showing:
 - User prompts
 - Chatbot responses
 
+![ScreenShot1](https://github.com/Sharmaaditya22/document-to-vector-db-rag-pipeline-chatbot/blob/b58b21c6275581b37c5998a8ad499836ef308964/png_folder/Chatbot_ouput.png)
+![ScreenShot2](https://github.com/Sharmaaditya22/document-to-vector-db-rag-pipeline-chatbot/blob/b58b21c6275581b37c5998a8ad499836ef308964/png_folder/Chatbot_ouput1.png)
+
 ------------------------------------------------------------
 
 🧑‍💻 TARGET AUDIENCE
