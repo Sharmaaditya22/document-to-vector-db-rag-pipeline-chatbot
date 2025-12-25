@@ -50,6 +50,8 @@ This approach ensures:
 The LLM generates answers only from retrieved company data,
 not from its general training knowledge.
 
+![RAG Architecture](https://github.com/Sharmaaditya22/document-to-vector-db-rag-pipeline-chatbot/blob/ca3d687866a71f4c4c4dca75dcf5d70acbafe9f7/png_folder/RAG_flow.png)
+
 ------------------------------------------------------------
 
 🏢 DUMMY COMPANY CONTEXT
@@ -68,7 +70,7 @@ can be applied to real company data in production environments.
 
 🧩 HIGH LEVEL ARCHITECTURE
 -----------------------
-
+![Project Architecture](https://github.com/Sharmaaditya22/document-to-vector-db-rag-pipeline-chatbot/blob/ca3d687866a71f4c4c4dca75dcf5d70acbafe9f7/png_folder/RAG_project_HLD.png)
 
 ------------------------------------------------------------
 
